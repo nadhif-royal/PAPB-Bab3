@@ -8,9 +8,9 @@ Proyek ini adalah implementasi praktikum untuk memahami konsep fundamental **Sta
 
 Berikut adalah hasil output dari ketiga fitur aplikasi saat dijalankan.
 
-| Default | Color Toggle Button | Followed |
+| Default | Color Toggle Button + Followed + Tambah | Unfollow + Kurang |
 | :---: | :---: | :---: |
-| ![Default](1.jpg) | ![Color Toggle Button](2.jpg) | ![Followed](3.jpg) |
+| ![Default](1.jpg) | ![Color Toggle Button + Followed + Tambah](2.jpg) | ![Unfollow + Kurang](3.jpg) |
 
 ---
 
