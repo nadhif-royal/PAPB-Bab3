@@ -8,9 +8,9 @@ Proyek ini adalah implementasi praktikum untuk memahami konsep fundamental **Sta
 
 Berikut adalah hasil output dari ketiga fitur aplikasi saat dijalankan.
 
-| Counter App | Color Toggle Button | Interactive Profile |
+| Default | Color Toggle Button | Followed |
 | :---: | :---: | :---: |
-| ![Counter App](1.jpg) | ![Color Toggle Button](2.jpg) | ![Interactive Profile](3.jpg) |
+| ![Default](1.jpg) | ![Color Toggle Button](2.jpg) | ![Followed](3.jpg) |
 
 ---
 
